@@ -52,7 +52,7 @@
                         </div>
 
                         <button type="submit" class="btn btn-primary btn-block">Submit</button>
-                        <h1> THANK YOU FOR SUBMITTING THE DATA.</h1>
+                        <h1> THANK YOU FOR SUBMITTING THE FORM IT'S PLEASURE MOMENT FOR ME.</h1>
                     </form>
                     <div id="output"></div>
                     
